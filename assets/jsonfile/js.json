@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which type of JavaScript language is ___",
+        "2": "Which one of the following also known as Conditional Expression:",
+        "3": "In JavaScript, what is a block of statement?",
+        "4": "When interpreter encounters an empty statements, what it will do:",
+        "5": "The function and var are known as:",
+        "6": "Which of the following variables takes precedence over the others if the names are the same?",
+        "7": "Which one of the following is the correct way for calling the JavaScript code?",
+        "8": "Which of the following type of a variable is volatile?",
+        "9": "Which of the following option is used as hexadecimal literal beginning?",
+        "10": "In the JavaScript, which one of the following is not considered as an error:"
+    },
+    {
+        "1": {
+            "a": "Object-Oriented",
+            "b": "Object-Based",
+            "c": "Assembly-Language",
+            "d": "High-Level"
+        },
+        "2": {
+            "a": "Alternative to if-else",
+            "b": "Switch Statement",
+            "c": "f-then-else statement",
+            "d": "immediate if"
+        },
+        "3": {
+            "a": "Condional block",
+            "b": "both conditional block and a single statement",
+            "c": "block that combines a number of statements into a single compound statement",
+            "d": "block that contains a single statements"
+        },
+        "4": {
+            "a": "Shows a warning",
+            "b": "Prmpts to complete the statements",
+            "c": "Throws an error",
+            "d": "Ignores the statements"
+        },
+        "5": {
+            "a": "Keywords",
+            "b": "Data types",
+            "c": "Declaration Statements",
+            "d": "Prototypes"
+        },
+        "6": {
+            "a": "Global Variable",
+            "b": "The local element",
+            "c": "The two of the above",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "Preprocessor",
+            "b": "Triggering Eevent",
+            "c": "RMI",
+            "d": "Function/Method"
+        },
+        "8": {
+            "a": "Mutables Variables",
+            "b": "Dynamic Variables",
+            "c": "Volatile Varibles",
+            "d": "Immutable variable"
+        },
+        "9": {
+            "a": "00",
+            "b": "0x",
+            "c": "0X",
+            "d": "Both 0x and OX"
+        },
+        "10": {
+            "a": "Syntax Error",
+            "b": "Missing of semicolons",
+            "c": "Division by zero",
+            "d": "Missing of Bracket"
+        }
+    },
+    {
+        "1": "Object-Based",
+        "2": "Immediate if",
+        "3": "block that combines a number of statements into a single compound statement",
+        "4": "Ignores the statements",
+        "5": "Decelaration Statements",
+        "6": "The local element",
+        "7": "Function/Method",
+        "8": "Mutable Variables",
+        "9": "Both 0x and 0X",
+        "10": "Division by zero"
+    }
+]

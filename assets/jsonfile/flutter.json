@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Flutter developed by ?",
+        "2": "Which of the following is true regarding Flutter?",
+        "3": "The first alpha version of Flutter was released in ________.",
+        "4": "SDK stands for _________.",
+        "5": "What are the best editors for Flutter development?",
+        "6": "_______ in Flutter are used as an identifier for Widgets, Elements and SemanticsNodes.",
+        "7": "_________ command is used to compile the release mode.",
+        "8": "A widget that allows us to refresh the screen is called a ____________.",
+        "9": "The ________ widget in Flutter is a box that comes with a specified size.",
+        "10": "he function is responsible for returning the widgets that are attached to the screen as a root of the widget tree and will be rendered on the screen."
+    },
+    {
+        "1": {
+            "a": "Global",
+            "b": "Fackbook",
+            "c": "Google",
+            "d": "IBM"
+        },
+        "2": {
+            "a": "Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications",
+            "b": "Flutter use one programming language and a single codebase",
+            "c": "Flutter is free and open-source",
+            "d": "All of the above"
+        },
+        "3": {
+            "a": "May 2017",
+            "b": "May 2018",
+            "c": "May 2016",
+            "d": "May 2019"
+        },
+        "4": {
+            "a": "Software Data Kit",
+            "b": "Software Database kit",
+            "c": "Software Development Knowledge",
+            "d": "Software Development Kit"
+        },
+        "5": {
+            "a": "Android Studio",
+            "b": "ItelliJ IDEA",
+            "c": "Visual Studio Code",
+            "d": "All the above"
+        },
+        "6": {
+            "a": "Buttons",
+            "b": "Widgets",
+            "c": "Keys",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "flutter run --release",
+            "b": "flutter --release",
+            "c": "flutter run ??release",
+            "d": "flutter run %%release"
+        },
+        "8": {
+            "a": "Stateless Widget",
+            "b": "Stateful Widget",
+            "c": "Statebuild Widget",
+            "d": "All of the above"
+        },
+        "9": {
+            "a": "Container",
+            "b": "Stream",
+            "c": "Show",
+            "d": "SizedBox"
+        },
+        "10": {
+            "a": "Container",
+            "b": "main()",
+            "c": "runApp()",
+            "d": "Text"
+        }
+    },
+    {
+        "1": "Google",
+        "2": "All the above",
+        "3": "May 2017",
+        "4": "Software Development Kit",
+        "5": "All the above",
+        "6": "Keys",
+        "7": "flutter run --release",
+        "8": "Stateful Widget",
+        "9": "SizedBox",
+        "10": "runApp()"
+    }
+]

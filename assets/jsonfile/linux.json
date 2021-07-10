@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Maximum how long can a Linux filename be?",
+        "2": "Which combination of keys is used to exit from terminal?",
+        "3": "Which of the following command is used to create file in Linux?",
+        "4": "Which command is used to get the kernel version in Linux?",
+        "5": "Which of the following OS is not based on Linux?",
+        "6": "In Linux everything stored as a",
+        "7": "Which command is used to list all the files in your current directory(including hidden)?",
+        "8": "Which command is/are used to remove directory in Linux?",
+        "9": "Which key combination is used to see all the hidden files in Nautilus file manager?",
+        "10": "Which command(s) is/are used to get help about a command in Linux?"
+    },
+    {
+        "1": {
+            "a": "128 bytes",
+            "b": "255 bytes",
+            "c": "32 bytes",
+            "d": "64 bytes"
+        },
+        "2": {
+            "a": "ctrl + t",
+            "b": "ctrl + z",
+            "c": "ctrl + d",
+            "d": "ctrl + e"
+        },
+        "3": {
+            "a": "touch",
+            "b": "cat",
+            "c": "echo",
+            "d": "All of the above"
+        },
+        "4": {
+            "a": "uname -r",
+            "b": "kernal",
+            "c": "uname -n",
+            "d": "uname -s"
+        },
+        "5": {
+            "a": "Ubuntu",
+            "b": "Redhat",
+            "c": "CentOs",
+            "d": "BSD"
+        },
+        "6": {
+            "a": "file",
+            "b": "directory",
+            "c": "executables",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "ls -l",
+            "b": "ls -t",
+            "c": "ls -a",
+            "d": "ls -i"
+        },
+        "8": {
+            "a": "rmdir",
+            "b": "rm -r",
+            "c": "only b",
+            "d": "Both a and b"
+        },
+        "9": {
+            "a": "Ctrl + Shift + h",
+            "b": "Ctrl + h",
+            "c": "Ctrl + Alt + h",
+            "d": "None of the above"
+        },
+        "10": {
+            "a": "info",
+            "b": "man",
+            "c": "none of these",
+            "d": "Both a and b"
+        }
+    },
+    {
+        "1": "255 bytes",
+        "2": "ctrl + z",
+        "3": "All of the above",
+        "4": "uname -r",
+        "5": "BSD",
+        "6": "file",
+        "7": "",
+        "8": "Both a and b",
+        "9": "Ctrl + h",
+        "10": "Both a and b"
+    }
+]
